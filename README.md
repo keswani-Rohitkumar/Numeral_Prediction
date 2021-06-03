@@ -34,10 +34,8 @@ But the accuracy for predicitng all the numerals were very low so I tried to fin
 
 ![image](https://user-images.githubusercontent.com/51491512/120647640-bcee9400-c472-11eb-8b44-daedc5fab170.png)
 
+![image](https://user-images.githubusercontent.com/51491512/120648136-34242800-c473-11eb-9f64-c4bd1c8560d4.png)
 
-![image](https://user-images.githubusercontent.com/51491512/120647424-7f8a0680-c472-11eb-9196-a83efa0625f3.png)
-
-
-![image](https://user-images.githubusercontent.com/51491512/120647541-9e889880-c472-11eb-9e17-220fea62fa29.png)
+![image](https://user-images.githubusercontent.com/51491512/120648198-43a37100-c473-11eb-8bdd-dd47f79b1282.png)
 
 It can be seen that there is a minimal change in accuracy over the 100 epochs for both training and validation.
