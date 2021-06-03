@@ -30,7 +30,7 @@ I build these models and trained them on hyperparameters, tuning them with the h
 
 I build these models for predicting all the numerals which were Ones Sequence (0-9), Teens Sequence(10-19), Large Sequence ( twenty, thirty, ...., hundred, thousand, million, billion). 
 
-But the accuracy for predicitng all the numerals were very low so I tried to find a different approach and experimented with predicting only the ones sequence and finally, I got the highest Accuravy of 35% in the validation data using Keras Sequential API to build the neural network.
+But the accuracy for predicitng all the numerals were very low so I tried to find a different approach and experimented with predicting only the ones sequence and finally, I achieved the highest Accuracy of 35% for the validation data using neural networks using Keras Sequential API.
 
 ![image](https://user-images.githubusercontent.com/51491512/120647640-bcee9400-c472-11eb-8b44-daedc5fab170.png)
 
